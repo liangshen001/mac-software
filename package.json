@@ -1,13 +1,16 @@
 {
   "name": "@liangshen/mac-software",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["mac", "software"],
+  "keywords": [
+    "mac",
+    "software"
+  ],
   "repository": "liangshen001/mac-software",
   "author": "Wang Liang <850598163@qq.com>",
   "license": "ISC",
